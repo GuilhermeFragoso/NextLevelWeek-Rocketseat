@@ -1,4 +1,6 @@
-Projeto elaborado pela Rocketseat ( Next Level Week - 1ª Edição). Todos os créditos para eles :)
+<h1 align="center">
+    Projeto elaborado pela Rocketseat ( Next Level Week - 1ª Edição). Todos os créditos para eles :)
+</h1>
 
 <h1 align="center">
     <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
